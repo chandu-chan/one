@@ -4,3 +4,4 @@ COPY target/*.war /usr/local/tomcat/webapps/myweb.war
 
 hello
 ntg were
+what r u dng
